@@ -1,0 +1,14 @@
+.header {
+  color: red;
+  text-decoration: underline;
+  font-size: 5rem;
+  text-align: center;
+}
+
+#second {
+  color: black;
+  font-size: 3rem;
+  text-align: center;
+}
+
+/*  . class selector and # id selector */
